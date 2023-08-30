@@ -1,0 +1,127 @@
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Complete guide\Lesson 3. Model View Controller\04_SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.cshtml.g.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Building User Interface\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CopyComplete
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.input.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.output.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorCoreGenerate.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.cshtml.g.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\asp .net core mvc\Lesson 1. MVC Introduction\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CopyComplete
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.dll
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.input.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.TagHelpers.output.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorCoreGenerate.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Products\List.cshtml.g.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.Views.pdb
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CopyComplete
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vlad\source\repos\WebApplication1\02 SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs

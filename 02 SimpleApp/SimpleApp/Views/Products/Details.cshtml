@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+    <link href="~/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <h2>Детали</h2>
+    <table>
+        <tr>
+            <td>Id</td>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <td>Название</td>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td>Цена</td>
+            <td>@Model.Price</td>
+        </tr>
+         <tr>
+            <td>Описание</td>
+            <td>@Model.Description</td>
+        </tr>
+        <tr>
+            <td>Количество</td>
+            <td>@Model.Qty</td>
+        </tr>
+    </table>
+</body>
+</html>

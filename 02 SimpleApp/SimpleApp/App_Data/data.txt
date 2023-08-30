@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, Iphone 6s, 0
+2, Laptop, 3200, Lenovo, 3
+3, Keyboard, 35, Starlink, 15000
+4, Mouse, 10, MouseBomb, 20000
+5, Pen, 1, Galactic, 100000
+6, Notebook, 1, Astronomic, 75000
